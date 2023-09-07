@@ -1,0 +1,44 @@
+Addition
+
+step1: start
+step2: declare num1, num2,sum
+step3:read num1,num2
+step4:add num1 and num2 and store result in sum
+step5:print sum
+step6:stop
+
+
+Smallest
+
+step1:start
+step2: declare num1,num2
+step3:read: num1,num2
+step3:check if num1<num2, print num1
+step4:else print num2
+step5:stop
+
+
+odd or even
+
+step1:start
+step2:declare a
+step3:read a
+step4:check if a divided by 2 gives reminder 0,print a is even.
+step5:print a is odd.
+step6:stop.
+
+Largest of 3
+
+
+step1:start
+step2:declare a,b,c
+step3:read a,b,c
+step4:if a>b,a>c, print a is larget
+step5:else if b>c, print b is greatest
+step6:else print c is greatest
+step7:stop
+
+
+
+
+
