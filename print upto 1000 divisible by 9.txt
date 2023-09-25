@@ -1,0 +1,15 @@
+print upto 1000 divisible by 9
+
+#include <stdio.h>
+
+int main()
+{
+    int num = 9;
+
+    do {
+        printf("%d \n",num);
+        num=num+9;
+    } while (num <= 1000);
+
+    return 0;
+}
